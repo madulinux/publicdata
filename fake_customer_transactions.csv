@@ -1,0 +1,51 @@
+customer_id,age,gender,location,income,purchase_amount,product_category,purchase_date,satisfaction_score,frequency_visits,payment_method,membership_type
+1,35,Female,Jakarta,75000000,1500000,Electronics,2023-01-15,4.5,12,Credit Card,Gold
+2,28,Male,Surabaya,45000000,750000,Fashion,2023-01-16,3.8,8,Debit Card,Silver
+3,42,Female,Bandung,90000000,2500000,Home & Living,2023-01-17,4.8,15,Credit Card,Platinum
+4,31,Male,Jakarta,,1200000,Electronics,2023-01-18,4.2,10,E-wallet,Gold
+5,45,Female,Medan,65000000,,Beauty,2023-01-19,4.0,6,Credit Card,Silver
+6,29,Male,Yogyakarta,55000000,900000,Fashion,2023-01-20,,9,Debit Card,Gold
+7,38,Female,Jakarta,85000000,3500000,Electronics,2023-01-21,4.7,18,Credit Card,Platinum
+8,33,Male,Surabaya,40000000,600000,Fashion,2023-01-22,3.5,5,Cash,Silver
+9,50,Female,Bandung,95000000,4200000,Home & Living,2023-01-23,4.9,20,Credit Card,Platinum
+10,27,Male,Jakarta,35000000,450000,Fashion,2023-01-24,3.9,7,E-wallet,Silver
+11,41,Female,Medan,,1800000,Beauty,2023-01-25,4.3,11,Credit Card,Gold
+12,36,Male,Yogyakarta,70000000,2800000,Electronics,2023-01-26,4.6,14,Credit Card,Platinum
+13,44,Female,Jakarta,80000000,,Home & Living,2023-01-27,4.4,13,Debit Card,Gold
+14,30,Male,Surabaya,50000000,850000,Fashion,2023-01-28,3.7,8,E-wallet,Silver
+15,39,Female,Bandung,88000000,3200000,Electronics,2023-01-29,4.8,16,Credit Card,Platinum
+16,25,Male,Jakarta,30000000,350000,Fashion,2023-01-30,3.2,4,Cash,Bronze
+17,48,Female,Surabaya,120000000,5500000,Home & Living,2023-01-31,5.0,25,Credit Card,Platinum
+18,32,Male,Medan,,-50000,Electronics,2023-02-01,2.1,3,Debit Card,Bronze
+19,37,Female,Bandung,82000000,2900000,Beauty,2023-02-02,,12,Credit Card,Gold
+20,29,Male,Jakarta,48000000,950000,Fashion,2023-02-03,3.6,7,E-wallet,Silver
+21,52,Female,Yogyakarta,150000000,8000000,Home & Living,2023-02-04,4.9,22,Credit Card,Platinum
+22,34,Male,Surabaya,58000000,,Electronics,2023-02-05,4.1,9,Debit Card,Gold
+23,43,Female,Jakarta,92000000,3800000,Beauty,2023-02-06,4.7,17,Credit Card,Platinum
+24,31,Male,Bandung,15000000,180000,Fashion,2023-02-07,2.8,2,Cash,Bronze
+25,46,Female,Medan,78000000,2600000,Home & Living,2023-02-08,4.5,15,Credit Card,Gold
+26,28,Male,Jakarta,,1100000,Electronics,2023-02-09,3.9,8,E-wallet,Silver
+27,40,Female,Surabaya,86000000,3300000,Beauty,2023-02-10,4.6,16,Credit Card,Platinum
+28,35,Male,Yogyakarta,62000000,1500000,Fashion,2023-02-11,4.2,11,Debit Card,Gold
+29,49,Female,Jakarta,98000000,4500000,Home & Living,2023-02-12,,19,Credit Card,Platinum
+30,26,Male,Bandung,32000000,420000,Electronics,2023-02-13,3.4,5,Cash,Bronze
+31,55,Female,Medan,180000000,12000000,Beauty,2023-02-14,5.0,30,Credit Card,Platinum
+32,33,Male,Jakarta,54000000,1300000,Fashion,2023-02-15,4.0,10,E-wallet,Gold
+33,47,Female,Surabaya,94000000,4100000,Home & Living,2023-02-16,4.8,18,Credit Card,Platinum
+34,30,Male,Bandung,,200000,Electronics,2023-02-17,3.1,4,Debit Card,Bronze
+35,41,Female,Jakarta,88000000,3600000,Beauty,2023-02-18,4.5,15,Credit Card,Gold
+36,36,Male,Medan,66000000,,Fashion,2023-02-19,4.2,12,Cash,Gold
+37,51,Female,Yogyakarta,105000000,5800000,Home & Living,2023-02-20,4.9,21,Credit Card,Platinum
+38,29,Male,Jakarta,42000000,680000,Electronics,2023-02-21,3.7,7,E-wallet,Silver
+39,44,Female,Surabaya,96000000,4300000,Beauty,2023-02-22,4.7,17,Credit Card,Platinum
+40,32,Male,Bandung,52000000,1200000,Fashion,2023-02-23,4.1,11,Debit Card,Gold
+41,38,Female,Jakarta,84000000,3100000,Home & Living,2023-02-24,4.6,16,Credit Card,Platinum
+42,27,Male,Medan,20000000,-100000,Electronics,2023-02-25,2.5,3,Cash,Bronze
+43,50,Female,Surabaya,102000000,4800000,Beauty,2023-02-26,,20,Credit Card,Platinum
+44,34,Male,Jakarta,56000000,1400000,Fashion,2023-02-27,4.0,9,E-wallet,Gold
+45,45,Female,Bandung,92000000,3900000,Home & Living,2023-02-28,4.8,18,Credit Card,Platinum
+46,31,Male,Yogyakarta,,850000,Electronics,2023-03-01,3.8,8,Debit Card,Silver
+47,48,Female,Jakarta,98000000,4400000,Beauty,2023-03-02,4.7,19,Credit Card,Platinum
+48,28,Male,Surabaya,38000000,580000,Fashion,2023-03-03,3.5,6,Cash,Bronze
+49,53,Female,Medan,160000000,9500000,Home & Living,2023-03-04,5.0,28,Credit Card,Platinum
+50,35,Male,Jakarta,60000000,,Electronics,2023-03-05,4.2,13,E-wallet,Gold
